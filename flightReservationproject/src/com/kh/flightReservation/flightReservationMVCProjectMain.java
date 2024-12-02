@@ -1,4 +1,4 @@
-package com.kh.flightReservationproject;
+package com.kh.flightReservation;
 
 import java.util.Scanner;
 
